@@ -13,6 +13,7 @@ body {
 p { 
 	margin-top: 0; 
 	text-align: justify;
+	width: 85%;
 	}
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
