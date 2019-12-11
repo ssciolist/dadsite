@@ -3,25 +3,34 @@ html {
 	padding: 0;
 	}
 body{
-  background-color: brown;
+  background: blue url(https://images.unsplash.com/photo-1566482768957-0d92a5003f52?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80) repeat top left; 
 }
-
-h1 {
-  text-align: center;
-  font-family: arial;
-  font-size: 80px;
-   margin: 40px 0px  40px 0px
-}
-.wahha {
+.assboy{
   background-color: white;
   text-align: center;
-  font-family: arial;
-  font-size: 25px;
-  margin: 50px 240px 50px 240px;
-  border: 1.0rem outset white;
-  box-shadow: 0 0 0 1rem black;
+  border:solid 4mm;
+  border-radius: 10px;
+  margin: 50px 130px 20px 130px
 }
-.first {
-  font-size:30px;
-  margin: 50px 50px  70px 50px;
+.title{
+  font:  bold 72px arial;
+  font-variant-caps: petite-caps;
+  color: black;
+  padding: 40px 0px 13px 0px;
+  margin: 0px;
 }
+.werk{
+  font: small-caps bold 24px/1.5 sans-serif;
+  margin: 30px 100px 50px 100px;
+}
+
+.links{
+  font: bold 25px/2.5 sans-serif;
+	margin: 30px 0px; 
+}
+.picture{
+  border: solid black 10px;
+  border-radius: 5px 5px 0px 0px;
+  margin: 40px 350px 0px
+}
+  
